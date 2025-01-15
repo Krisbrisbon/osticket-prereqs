@@ -21,8 +21,9 @@
 - C++ Redistributable 
 - Configure Users/Install OsTicket
 
-<h2>Installation Steps</h2>
-Install MySQL https://github.com/user-attachments/assets/194671a7-a9e6-498e-a45b-583f72ce63ea)
-Install VcDrct (https://github.com/user-attachments/assets/25a9d263-596e-4065-86df-4c45d0c39425)
-
+<h2>Installation Steps</h2> 
+MySQL (https://github.com/user-attachments/assets/194671a7-a9e6-498e-a45b-583f72ce63ea)
+VcDrct (https://github.com/user-attachments/assets/25a9d263-596e-4065-86df-4c45d0c39425)
+HeidiSQL (https://imgur.com/Gh0o7Yb)
+Enable PHP (https://imgur.com/a/SCkXjad)
 
