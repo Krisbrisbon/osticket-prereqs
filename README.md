@@ -23,6 +23,6 @@
 
 <h2>Installation Steps</h2>
 Install MySQL https://github.com/user-attachments/assets/194671a7-a9e6-498e-a45b-583f72ce63ea)
-Install VcreDirect (https://github.com/user-attachments/assets/25a9d263-596e-4065-86df-4c45d0c39425)
+Install VcDrct (https://github.com/user-attachments/assets/25a9d263-596e-4065-86df-4c45d0c39425)
 
 
